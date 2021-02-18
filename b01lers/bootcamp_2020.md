@@ -1,4 +1,4 @@
-# b01lers CTF bootcamp
+# b01lers CTF bootcamp 2020
 
 ## [Misc] Echoes of Reality
 

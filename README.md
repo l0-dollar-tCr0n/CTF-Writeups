@@ -12,4 +12,4 @@
 
 - [Tenable CTF 2021](https://github.com/l0-dollar-tCr0n/CTF-Writeups/blob/master/Tenable/2021.md)
 - [RITSEC CTF 2021](https://github.com/l0-dollar-tCr0n/CTF-Writeups/blob/master/RITSEC/2021.md)
-- [THC CTF 2021](https://github.com/l0-dollar-tCr0n/CTF-Writeups/blob/master/THCCONF/2021.md)
+- [THC CTF 2021](https://github.com/l0-dollar-tCr0n/CTF-Writeups/blob/master/THCCTF/2021.md)

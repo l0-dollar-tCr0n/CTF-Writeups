@@ -13,3 +13,7 @@
 - [Tenable CTF 2021](https://github.com/l0-dollar-tCr0n/CTF-Writeups/blob/master/Tenable/2021.md)
 - [RITSEC CTF 2021](https://github.com/l0-dollar-tCr0n/CTF-Writeups/blob/master/RITSEC/2021.md)
 - [THC CTF 2021](https://github.com/l0-dollar-tCr0n/CTF-Writeups/blob/master/THCCTF/2021.md)
+
+## 2022
+
+- [Google Foobar](https://github.com/l0-dollar-tCr0n/CTF-Writeups/blob/master/GoogleFoobar/2022.md)
